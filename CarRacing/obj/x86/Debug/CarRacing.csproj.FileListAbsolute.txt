@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\CarRacing\CarRacing\obj\x86\Debug\CarRacing.FormView.resources
+C:\Users\admin\Desktop\CarRacing\CarRacing\obj\x86\Debug\CarRacing.Properties.Resources.resources
+C:\Users\admin\Desktop\CarRacing\CarRacing\obj\x86\Debug\CarRacing.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\admin\Desktop\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\admin\Desktop\CarRacing\CarRacing\obj\x86\Debug\CarRacing.exe
+C:\Users\admin\Desktop\CarRacing\CarRacing\obj\x86\Debug\CarRacing.pdb
